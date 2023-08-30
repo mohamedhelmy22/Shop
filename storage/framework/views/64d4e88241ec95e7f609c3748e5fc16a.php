@@ -1,0 +1,1 @@
+<?php /**PATH C:\xampp\htdocs\elalrayanshop\resources\views/website/layouts/footer.blade.php ENDPATH**/ ?>
