@@ -55,7 +55,7 @@ class CategoryController extends Controller
             $category->meta_keywords = $request->meta_keywords;
             $category->image = $image;
             $category->save();
-
+ 
 
             toastr()->success(trans("messages_trans.success_save"), 'Congrats', ['timeOut' => 5000]);
 

@@ -14,7 +14,7 @@ class storeCategoryRequest extends FormRequest
 
     public function rules(): array
     {
-        return [
+        return [ 
             'name_ar'=>'required',
             'name_en'=>'required',
             'slug'=>'required',

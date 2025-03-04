@@ -17,7 +17,6 @@
 
 @section('content')
 
-@include('website.sections.slider')
 
 @include('website.sections.trend_product')
 
